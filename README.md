@@ -1,1 +1,5 @@
-// 100 days challenge of ML
+# **2nd-ML100Days**
+## 一個對資料科學毫無概念的凡人學習紀錄
+
+
+
